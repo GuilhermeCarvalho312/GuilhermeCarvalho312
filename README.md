@@ -15,7 +15,7 @@
 ##
 
 <div>
-    <h2><b>Tecnologias que tenho conhecimento</b></h2>
+    <h2><b>Tecnologias que tenho conhecimento: </b></h2>
 </div>
 
 <div>
