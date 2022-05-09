@@ -1,4 +1,4 @@
-### Olá! Meu nome é Guilherme
+### Olá! Meu nome é Guilherme!
 
 - 🔭 Atualmente trabalho com Front-End
 - 🌱 Atualmente estou aprendendo Typescript
