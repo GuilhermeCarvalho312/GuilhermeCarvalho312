@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalho com Front-End
 - 🌱 Atualmente estou aprendendo Typescript
 - 📫 Entre em contato comigo através do email: contato.guilhermecarvalho18@gmail.com
-- <img src="https://img.icons8.com/color/30/000000/linkedin.png"/> Linkedin: https://www.linkedin.com/in/guilherme-augusto-carvalho-s
 - 😄 Pronomes: ele/dele
 
 <div>
