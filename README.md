@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Front-End
 - 🌱 Atualmente estou aprendendo Typescript
-- 📫 Entre em contato comigo através do botão whatsapp no fim da página. Ou através do email: contato.guilhermecarvalho18@gmail.com
+- 📫 Entre em contato comigo através dos canais de contato no fim da página. Ou através do email: contato.guilhermecarvalho18@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div>
