@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Guilherme!
 
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Atualmente estou aprendendo Typescript
+- 🔭 Atualmente trabalho com Front-End;
+- 🌱 Atualmente estou estudando Angular;
 - 📫 Entre em contato comigo através dos canais de contato no fim da página. Ou através do email: contato.guilhermecarvalho18@gmail.com
 - 😄 Pronomes: ele/dele
 
