@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalho com Front-End;
 - 🌱 Atualmente estou estudando React JS;
 - 📫 Entre em contato comigo através dos canais de contato no fim da página. Ou através do email: contato.guilhermecarvalho18@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div>
     <a href="https://github.com/GuilhermeCarvalho312">
