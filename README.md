@@ -5,14 +5,6 @@
 - 📫 Entre em contato comigo através dos canais de contato no fim da página. Ou através do email: contato.guilhermecarvalho18@gmail.com
 
 <div>
-    <a href="https://github.com/GuilhermeCarvalho312">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCarvalho312&show_icons=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCarvalho312&langs_count=6&layout=compact">
-</div>
-
-##
-
-<div>
     <h2><b>Tecnologias que tenho conhecimento: </b></h2>
 </div>
 
